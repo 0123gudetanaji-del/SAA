@@ -1,0 +1,63 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Centered within 66dp safe zone (21 to 87 on 108dp canvas, center is 54, 54) -->
+    <group
+        android:pivotX="54"
+        android:pivotY="54">
+        <!-- Outer Gear Cog Ring (Amber Gold) -->
+        <path
+            android:fillColor="#FFB300"
+            android:pathData="M51,26 L57,26 L58,31 C59.5,31.4 61,32 62.4,32.8 L66.6,29.8 L70.8,34 L67.8,38.2 C68.6,39.6 69.2,41.1 69.6,42.6 L74.6,43.6 L74.6,49.6 L69.6,50.6 C69.2,52.1 68.6,53.6 67.8,55 L70.8,59.2 L66.6,63.4 L62.4,60.4 C61,61.2 59.5,61.8 58,62.2 L57,67.2 L51,67.2 L50,62.2 C48.5,61.8 47,61.2 45.6,60.4 L41.4,63.4 L37.2,59.2 L40.2,55 C39.4,53.6 38.8,52.1 38.4,50.6 L33.4,49.6 L33.4,43.6 L38.4,42.6 C38.8,41.1 39.4,39.6 40.2,38.2 L37.2,34 L41.4,29.8 L45.6,32.8 C47,32 48.5,31.4 50,31 L51,26 Z" />
+
+        <!-- Inner Dark Center Circle -->
+        <path
+            android:fillColor="#102038"
+            android:pathData="M54,35 C63.4,35 71,42.6 71,52 C71,61.4 63.4,69 54,69 C44.6,69 37,61.4 37,52 C37,42.6 44.6,35 54,35 Z" />
+
+        <!-- Automobile Shock Absorber / Spark Plug / Wrench Stylized Core -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M52,38 L56,38 L56,43 L52,43 Z" />
+        <path
+            android:fillColor="#FFE082"
+            android:pathData="M50,44 L58,44 L57,48 L51,48 Z" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M53,49 L55,49 L55,57 L53,57 Z" />
+        <!-- Spring Coils (Automobile suspension) -->
+        <path
+            android:strokeColor="#FFB300"
+            android:strokeWidth="2"
+            android:strokeLineCap="round"
+            android:pathData="M48,51 C50,49 58,49 60,51 M48,55 C50,53 58,53 60,55 M48,59 C50,57 58,57 60,59" />
+
+        <!-- SAA Banner Plaque at the Bottom -->
+        <path
+            android:fillColor="#FFB300"
+            android:pathData="M32,71 L76,71 C78.2,71 80,72.8 80,75 L80,81 C80,83.2 78.2,85 76,85 L32,85 C29.8,85 28,83.2 28,81 L28,75 C28,72.8 29.8,71 32,71 Z" />
+        
+        <!-- SAA Text in Banner -->
+        <!-- S -->
+        <path
+            android:fillColor="#0D1B2A"
+            android:pathData="M42,75.5 C42,74.7 41.3,74 40.5,74 L37.5,74 C36.7,74 36,74.7 36,75.5 L36,77 C36,77.8 36.7,78.5 37.5,78.5 L40.5,78.5 C41.3,78.5 42,79.2 42,80 L42,81.5 C42,82.3 41.3,83 40.5,83 L37.5,83 C36.7,83 36,82.3 36,81.5 M36,75.5 L36,77 M42,80 L42,81.5"
+            android:strokeColor="#0D1B2A"
+            android:strokeWidth="1.2"
+            android:strokeLineCap="round" />
+        <!-- A -->
+        <path
+            android:strokeColor="#0D1B2A"
+            android:strokeWidth="1.8"
+            android:strokeLineCap="round"
+            android:pathData="M49,83 L53,74 L57,83 M50.5,80 L55.5,80" />
+        <!-- A -->
+        <path
+            android:strokeColor="#0D1B2A"
+            android:strokeWidth="1.8"
+            android:strokeLineCap="round"
+            android:pathData="M63,83 L67,74 L71,83 M64.5,80 L69.5,80" />
+    </group>
+</vector>

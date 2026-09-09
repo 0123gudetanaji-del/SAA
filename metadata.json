@@ -1,0 +1,6 @@
+{
+  "name": "SAA Inventory",
+  "description": "Offline-first Automobile Spare Parts Inventory Management System with peer-to-peer Wi-Fi/Hotspot sync for Shri Amardevi Automobile & Spare Part.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
